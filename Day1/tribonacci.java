@@ -1,3 +1,4 @@
+package Day1;
 public class tribonacci {
    public static int ntribonacci(int n){
     int dp[]= new int[n+1];
