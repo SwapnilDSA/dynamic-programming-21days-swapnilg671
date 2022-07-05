@@ -1,3 +1,4 @@
+package Day5;
 public class jumpGame {
       //I will store my maximum value in Dp array and compare the current maximum dp[i] to 
     //the previous maximum Dp[i-1], so the currrent maximum or the maximum value will depend on the value of dp[i-1], so we can store dp[i-1] in variable MaxJump
